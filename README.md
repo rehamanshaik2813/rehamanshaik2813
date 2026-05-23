@@ -1,108 +1,116 @@
 <div align="center">
 
-<!-- SECTION G: VISITOR COUNTER -->
-<img src="https://komarev.com/ghpvc/?username=rehamanshaik2813&label=Profile%20Views&color=0e75b6&style=flat" alt="rehamanshaik2813" />
-
-<!-- SECTION A: ANIMATED HEADER -->
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="wave"/>
-
-# Hello, I'm Rehman Shaik!
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Full-Stack+Developer+%7C+CS+Student;Building+cool+things+with+code;Heriot+Watt+University+%7C+Edinburgh)](https://git.io/typing-svg)
+<!-- ANIMATED HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff88,100:00ccff&height=200&section=header&text=Rehman%20Shaik&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=Cybersecurity%20Professional%20%7C%20SOC%20Analyst%20%7C%20MSc%20Applied%20Cybersecurity&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Rehman Shaik Banner"/>
 
 </div>
 
 ---
 
-## About Me
+## 🧑‍💻 About Me
 
-I'm **Rehman Shaik**, a passionate Computer Science student at **Heriot Watt University** in Edinburgh, Scotland. I love building innovative web and software solutions and continuously pushing the boundaries of what technology can do.
-
-- Studying Computer Science at **Heriot Watt University**, Edinburgh
-- Portfolio: **[rehamanshaik2813.github.io](https://rehamanshaik2813.github.io/index.html)**
-- Built a cool **WhatsApp Lock** tool in Python
-- Based in **Edinburgh, Scotland**
-- Passionate about open-source, clean code, and creative problem-solving
-- Currently exploring full-stack development and cloud technologies
-- Powered by coffee and curiosity
+🎓 MSc Applied Cybersecurity student at **Heriot-Watt University**, Edinburgh — building expertise across network security, digital forensics, and incident response.  
+🔴 **CRTA-Certified Red Team Analyst** with hands-on offensive security skills including penetration testing, adversarial simulation, and exploitation techniques.  
+🛡️ Practical SOC experience using **Splunk**, **Wazuh**, and **Wireshark** for threat detection, log analysis, and traffic monitoring — passionate about turning raw data into actionable intelligence.
 
 ---
 
-## Tech Stack
+## 🛠️ Tech & Tools
 
-**Frontend**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-**Backend**
+<div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-
-**Tools and Platforms**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=nmap&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-3D5A80?style=for-the-badge&logo=wazuh&logoColor=white)
+![Nessus](https://img.shields.io/badge/Nessus-00B388?style=for-the-badge&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-## Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rehamanshaik2813)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rehamanshaik2813.github.io/index.html)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rehamanshaik2813)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
 ---
 
-## GitHub Stats
+## 🏅 Certifications
+
+🏆 **Certified Red Team Analyst (CRTA)** — Cyberwarfare Labs | ID: `CRTA-6995e0e15f7c23c92b948d35`  
+🛡️ **Certified SOC Analyst (CSA) Training** — Hacker School  
+📡 **Networking Essentials** — Cisco  
+🔐 **Network Defense Essentials** — EC-Council  
+🔬 **Advanced Digital Forensics Techniques** — Belkasoft  
+☁️ **Managing Cloud Infrastructure** — Quick Heal  
+
+---
+
+## 💼 Experience
+
+### 🔍 SOC Analyst Intern — TechDefence Labs *(Dec 2024 – Mar 2025)*
+
+- Monitored and investigated security events and alerts using **Splunk** and **Wazuh** SIEM platforms  
+- Performed network traffic analysis with **Wireshark** to identify anomalies and potential intrusions  
+- Conducted vulnerability assessments using **Nessus** and **Nmap** to evaluate attack surfaces  
+- Applied **MITRE ATT&CK** framework and **NIST Incident Response** lifecycle for structured threat handling  
+
+---
+
+## 🚀 Key Project
+
+### 🤖 AI-Powered Three-Layered DDoS Detection System *(2024–2025)*
+
+**Tech Stack:** Python · Nmap · Wireshark · Cloud Infrastructure
+
+> Real-time DDoS detection system combining anomaly-based traffic analysis with a multi-layered firewall configuration. Leverages machine learning models to classify attack patterns and automatically trigger mitigation responses across three defence layers.
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rehamanshaik2813&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rehamanshaik2813&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=rehamanshaik2813&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ccff&text_color=c9d1d9" height="165" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rehamanshaik2813&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9" height="165" alt="Top Languages"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rehamanshaik2813&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<img src="https://github-readme-streak-stats.herokuapp.com?user=rehamanshaik2813&theme=tokyonight&hide_border=true&background=0d1117&ring=00ff88&fire=00ccff&currStreakLabel=00ff88" alt="GitHub Streak" width="500"/>
 
 </div>
 
 ---
 
-## GitHub Trophies
+## 🎓 Currently Learning & Open To
+
+**🎓 Currently Studying (HWU MSc):**  
+Digital Forensics · Network Security · Computer Network Security
+
+**💼 Open To:**  
+SOC Analyst roles · Cybersecurity internships · IT Security positions across the UK *(remote & on-site)*
+
+**⏰ Right to Work:**  
+UK Student Visa — up to **20 hrs/week** during term time · **Full-time** during holidays
+
+---
+
+## 📬 Connect With Me
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=rehamanshaik2813&theme=darkhub&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rehmanshaik2)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rehamanshaik2813)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rehmanshaik093@gmail.com)
 
 </div>
 
 ---
 
-## Let's Connect and Collaborate!
-
 <div align="center">
 
-I'm always open to interesting conversations, collaborations, and new opportunities. Whether you want to build something awesome together or just say hi, my DMs are open!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rehamanshaik2813)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=flat-square&logo=google-chrome)](https://rehamanshaik2813.github.io/index.html)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github)](https://github.com/rehamanshaik2813)
-
----
-
-If you find my work interesting, feel free to star my repositories!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ccff,50:00ff88,100:0d1117&height=100&section=footer" width="100%" alt="footer"/>
 
 </div>
